@@ -1,10 +1,11 @@
 {
-    "name": "Testing Nft V2",
-    "symbol": "TESTV2",
-    "description": "AYAYA",
-    "seller_fee_basis_points": 0,
-    "external_url": "",
-    "edition": "",
-    "background_color": "000000",
-    "image": "https://ih1.redbubble.net/image.1093418867.0431/flat,750x1000,075,f.jpg"
+  "name": "Mint your own Gopnik!",
+  "symbol": "GOPNIK",
+  "description": "Degens, you are invited to participate in the Gopnik’s MINT [FREE Mint Live] https://gopnik.wtf - Gopnik - is an NFT collection of 5555 unique Gopniks, Mint now, suka blyat!!!",
+  "external_url": "https://gopnik.wtf/#/",
+  "background_color": "000000",
+  "edition": ""
+  "seller_fee_basis_points": 0,
+  "image": "https://gopnik.wtf/invite/invite1.jpg"
+  "animation_url": "https://gopnik.wtf/invite/invite1.mp4",
 }
